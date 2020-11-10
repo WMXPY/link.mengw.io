@@ -4,10 +4,11 @@ This site collected cool links.
 
 ## Categories
 
--   [Cloud](./cloud.md)
--   [Statistic](./statistic.md)
--   [Tool](./tool.md)
--   [Visualization](./visualization.md)
+-   [Cloud](./category/cloud.md)
+-   [Collection](./category/collection.md)
+-   [Statistic](./category/statistic.md)
+-   [Tool](./category/tool.md)
+-   [Visualization](./category/visualization.md)
 
 ## Links
 
