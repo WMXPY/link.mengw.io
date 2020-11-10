@@ -4,6 +4,7 @@ This site collected cool links.
 
 ## Categories
 
+-   [Cloud](./cloud.md)
 -   [Statistic](./statistic.md)
 -   [Tool](./tool.md)
 -   [Visualization](./visualization.md)
