@@ -4,5 +4,6 @@ This site collected cool links.
 
 ## Categories
 
--   [Visualization](./visualization.md)
+-   [Statistic](./statistic.md)
 -   [Tool](./tool.md)
+-   [Visualization](./visualization.md)
