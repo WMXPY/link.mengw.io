@@ -9,3 +9,9 @@ Console of AWS web service.
 ### [AWS Learn](https://aws.training)
 
 Learn AWS.
+
+## G
+
+### [Google Cloud Platform Console](https://console.cloud.google.com/)
+
+GCP Console.
