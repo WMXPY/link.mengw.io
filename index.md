@@ -4,13 +4,13 @@ This site collected cool links.
 
 ## Categories
 
--   [Cloud](./category/cloud.md)
--   [Collection](./category/collection.md)
--   [Document](./category/document.md)
--   [Shopping](./category/shopping.md)
--   [Statistic](./category/statistic.md)
--   [Tool](./category/tool.md)
--   [Visualization](./category/visualization.md)
+-   [Cloud](./index/cloud.md)
+-   [Collection](./index/collection.md)
+-   [Document](./index/document.md)
+-   [Shopping](./index/shopping.md)
+-   [Statistic](./index/statistic.md)
+-   [Tool](./index/tool.md)
+-   [Visualization](./index/visualization.md)
 
 ## Links
 

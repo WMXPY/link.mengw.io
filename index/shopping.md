@@ -1,7 +1,7 @@
 # Shopping
 
-## M
+## K
 
-### [Mechanical Keyboards](https://mechanicalkeyboards.com/)
+### [Keyboards](../category/shopping/keyboards.md)
 
-Mechanical Keyboards
+The sub category of keyboards
