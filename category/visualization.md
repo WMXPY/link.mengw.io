@@ -18,6 +18,6 @@ A paper quilling art generation website.
 
 ## S
 
-### [SVG Gradient Wave Generator](https://codepen.io/pissang/full/geajpX) _Unstable_
+### [SVG Gradient Wave Generator](https://codepen.io/pissang/full/geajpX) _`Unstable`_
 
 A SVG wave generator can be exported.
