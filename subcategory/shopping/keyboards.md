@@ -1,6 +1,6 @@
 # Shopping Subcategory - Keyboards
 
-Go back to [Index - Shopping](../../index/shopping.md)
+Go back to [Category - Shopping](../../category/shopping.md)
 
 ## M
 
