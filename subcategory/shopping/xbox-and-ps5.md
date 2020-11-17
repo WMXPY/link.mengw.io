@@ -5,7 +5,7 @@ Go back to [Category - Shopping](../../category/shopping.md)
 ## PS5 (Blue-ray)
 
 -   [PS5 at BestBuy](https://www.bestbuy.com/site/playstation-5/ps5-consoles/pcmcat1587395025973.c)
--   [PS5 at GameStop](https://www.gamestop.com/video-games/playstation-5/consoles) _`Unstable`_
+-   [PS5 at GameStop `(Unstable)`](https://www.gamestop.com/video-games/playstation-5/consoles)
 -   [PS5 at Target](https://www.target.com/p/playstation-5-console/-/A-81114595)
 -   [PS5 at Walmart](https://www.walmart.com/ip/PlayStation-5-Console/363472942)
 
