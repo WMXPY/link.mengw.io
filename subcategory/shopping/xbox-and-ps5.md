@@ -9,6 +9,7 @@ Go back to [Category - Shopping](../../category/shopping.md)
 -   [PS5 at Target](https://www.target.com/p/playstation-5-console/-/A-81114595)
 -   [PS5 at Walmart](https://www.walmart.com/ip/PlayStation-5-Console/363472942)
 -   [PS5 at Amazon](https://www.amazon.com/PlayStation-5-Console/dp/B08FC5L3RG)
+-   [PS5 at Sony Direct](https://direct.playstation.com/en-us/ps5)
 -   [PS5 at B&H](https://www.bhphotovideo.com/c/product/1595083-REG/sony_3005718_playstation_5_gaming_console.html)
 
 ## Xbox Series X
