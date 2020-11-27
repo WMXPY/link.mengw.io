@@ -2,6 +2,6 @@
 
 ## E
 
-### [ExcaliDraw](https://amazom.com)
+### [ExcaliDraw](https://excalidraw.com)
 
-Amazon
+A hand paint like drawing website
