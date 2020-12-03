@@ -6,6 +6,7 @@ This site collected cool links.
 
 -   [Cloud](./category/cloud.md)
 -   [Collection](./category/collection.md)
+-   [Create](./category/create.md)
 -   [Presentation](./category/presentation.md)
 -   [Shopping](./category/shopping.md)
 -   [Statistic](./category/statistic.md)
