@@ -16,6 +16,7 @@ Go back to [Category - Shopping](../../category/shopping.md)
 
 ### Useful Links
 
+-   [Dealmoon](https://www.dealmoon.com/cn/accepting-reservations-playstation-5-game-console-pre-orders/2050752.html)
 -   [GYX deals Twitter](https://twitter.com/gyxdeals)
 
 ## Xbox Series X
