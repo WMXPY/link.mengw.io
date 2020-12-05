@@ -14,6 +14,10 @@ Go back to [Category - Shopping](../../category/shopping.md)
 -   [PS5 at B&H](https://www.bhphotovideo.com/c/product/1595083-REG/sony_3005718_playstation_5_gaming_console.html)
 -   [PS5 at StockX](https://stockx.com/sony-ps5-playstation-5-blu-ray-edition-console-white?country=US&currencyCode=USD)
 
+### Useful Links
+
+-   [GYX deals Twitter](https://twitter.com/gyxdeals)
+
 ## Xbox Series X
 
 -   [Xbox at BestBuy](https://www.bestbuy.com/site/microsoft-xbox-series-x-1tb-console-black/6428324.p)
