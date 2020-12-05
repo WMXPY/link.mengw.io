@@ -12,6 +12,7 @@ Go back to [Category - Shopping](../../category/shopping.md)
 -   [PS5 at Sony Direct](https://direct.playstation.com/en-us/ps5)
 -   [PS5 at NEWEGG](https://www.newegg.com/p/N82E16868110292)
 -   [PS5 at B&H](https://www.bhphotovideo.com/c/product/1595083-REG/sony_3005718_playstation_5_gaming_console.html)
+-   [PS5 at AntOnline](https://www.antonline.com/Sony/Playstation_5)
 -   [PS5 at StockX](https://stockx.com/sony-ps5-playstation-5-blu-ray-edition-console-white?country=US&currencyCode=USD)
 
 ### Useful Links
