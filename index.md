@@ -1,6 +1,6 @@
 # Amazing Links
 
-This site collected cool links.
+This site collect cool links.
 
 ## Categories
 
