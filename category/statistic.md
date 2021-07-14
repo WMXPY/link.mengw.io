@@ -1,3 +1,8 @@
+---
+title: Statistic
+layout: default
+---
+
 # Statistic
 
 ## S

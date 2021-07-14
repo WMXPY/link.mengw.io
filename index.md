@@ -9,16 +9,16 @@ This site collect cool links.
 
 ## Categories
 
--   [Cloud](./category/cloud.md)
--   [Collection](./category/collection.md)
--   [Create](./category/create.md)
--   [Gaming](./category/gaming.md)
--   [Presentation](./category/presentation.md)
--   [Programming](./category/programming.md)
--   [Shopping](./category/shopping.md)
--   [Statistic](./category/statistic.md)
--   [Tool](./category/tool.md)
--   [Visualization](./category/visualization.md)
+-   [Cloud](./category/cloud)
+-   [Collection](./category/collection)
+-   [Create](./category/create)
+-   [Gaming](./category/gaming)
+-   [Presentation](./category/presentation)
+-   [Programming](./category/programming)
+-   [Shopping](./category/shopping)
+-   [Statistic](./category/statistic)
+-   [Tool](./category/tool)
+-   [Visualization](./category/visualization)
 
 ## Links
 

@@ -1,3 +1,8 @@
+---
+title: Visualization
+layout: default
+---
+
 # Visualization
 
 ## F

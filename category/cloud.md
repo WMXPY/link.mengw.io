@@ -1,3 +1,8 @@
+---
+title: Cloud
+layout: default
+---
+
 # Cloud
 
 ## A

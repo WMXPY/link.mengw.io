@@ -1,3 +1,8 @@
+---
+title: Collection
+layout: default
+---
+
 # Collection
 
 ## A

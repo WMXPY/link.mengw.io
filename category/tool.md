@@ -1,3 +1,8 @@
+---
+title: Tool
+layout: default
+---
+
 # Tool
 
 ## A

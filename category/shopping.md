@@ -1,3 +1,8 @@
+---
+title: Shopping
+layout: default
+---
+
 # Shopping
 
 ## A

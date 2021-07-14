@@ -1,3 +1,8 @@
+---
+title: Gaming
+layout: default
+---
+
 # Gaming
 
 ## S
