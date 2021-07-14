@@ -1,0 +1,22 @@
+title: link.mengw.io
+email: wm@mengw.io
+description: Amazing Links
+url: https://link.mengw.io
+github_username: WMXPY
+theme: minima
+repository: WMXPY/link.mengw.io
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+author:
+  name: WMXPY
+  email: wm@mengw.io
+plugins:
+  - jekyll-github-metadata
+exclude:
+  - .jekyll-cache/
+  - docs/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
