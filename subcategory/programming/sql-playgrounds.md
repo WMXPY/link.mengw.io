@@ -1,6 +1,11 @@
+---
+title: Programming Subcategory - SQL Playgrounds
+layout: default
+---
+
 # Programming Subcategory - SQL Playgrounds
 
-Go back to [Category - Programming](../../category/programming.md)
+Go back to [Category - Programming](../../category/programming)
 
 ## S
 

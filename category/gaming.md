@@ -7,6 +7,6 @@ layout: default
 
 ## S
 
-### [`Subcategory` PlayStation Network](../subcategory/gaming/play-station-network.md)
+### [`Subcategory` PlayStation Network](../subcategory/gaming/play-station-network)
 
 PlayStation Network URLs

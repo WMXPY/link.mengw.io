@@ -1,6 +1,11 @@
+---
+title: Shopping Subcategory - Keyboards
+layout: default
+---
+
 # Shopping Subcategory - Keyboards
 
-Go back to [Category - Shopping](../../category/shopping.md)
+Go back to [Category - Shopping](../../category/shopping)
 
 ## K
 

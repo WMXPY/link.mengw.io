@@ -7,6 +7,6 @@ layout: default
 
 ## S
 
-### [`Subcategory` SQL Playgrounds](../subcategory/programming/sql-playgrounds.md)
+### [`Subcategory` SQL Playgrounds](../subcategory/programming/sql-playgrounds)
 
 Playground for SQL language

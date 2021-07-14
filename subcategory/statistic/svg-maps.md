@@ -1,6 +1,11 @@
+---
+title: Statistic Subcategory - SVG Maps
+layout: default
+---
+
 # Statistic Subcategory - SVG Maps
 
-Go back to [Category - Statistic](../../category/statistic.md)
+Go back to [Category - Statistic](../../category/statistic)
 
 ## A
 

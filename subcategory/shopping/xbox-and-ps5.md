@@ -1,6 +1,11 @@
+---
+title: Shopping Subcategory - Xbox and PS5
+layout: default
+---
+
 # Shopping Subcategory - Xbox and PS5
 
-Go back to [Category - Shopping](../../category/shopping.md)
+Go back to [Category - Shopping](../../category/shopping)
 
 ## PS5 (Blue-ray)
 
