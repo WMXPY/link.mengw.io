@@ -3,9 +3,7 @@ title: Programming Subcategory - SQL Playgrounds
 layout: default
 ---
 
-# Programming Subcategory - SQL Playgrounds
-
-Go back to [Category - Programming](../../category/programming)
+# SQL Playgrounds - [Programming](../../category/programming)
 
 ## S
 

@@ -3,9 +3,7 @@ title: Shopping Subcategory - Keyboards
 layout: default
 ---
 
-# Shopping Subcategory - Keyboards
-
-Go back to [Category - Shopping](../../category/shopping)
+# Keyboards - [Shopping](../../category/shopping)
 
 ## K
 

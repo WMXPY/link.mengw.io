@@ -3,9 +3,7 @@ title: Statistic Subcategory - SVG Maps
 layout: default
 ---
 
-# Statistic Subcategory - SVG Maps
-
-Go back to [Category - Statistic](../../category/statistic)
+# SVG Maps - [Statistic](../../category/statistic)
 
 ## A
 

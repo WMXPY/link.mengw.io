@@ -3,9 +3,7 @@ title: Gaming Subcategory - PlayStation Network
 layout: default
 ---
 
-# Gaming Subcategory - PlayStation Network
-
-Go back to [Category - Gaming](../../category/gaming)
+# PlayStation Network - [Gaming](../../category/gaming)
 
 ### [HongKong PlayStation Store](https://store.playstation.com/zh-hant-hk/)
 
