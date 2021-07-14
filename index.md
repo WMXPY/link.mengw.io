@@ -1,3 +1,8 @@
+---
+title: Amazing Snippets
+layout: home
+---
+
 # Amazing Links
 
 This site collect cool links.
